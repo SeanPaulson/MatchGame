@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MatchGame"
         mc:Ignorable="d"
-        Title="Find All The Matching Animals" Height="450" Width="400">
+        Title="Find All The Matching Animals" Height="450" Width="843">
     <Grid Name="mainGrid"  HorizontalAlignment="Center" VerticalAlignment="Stretch">
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
